@@ -8,10 +8,10 @@
 
 .nav-bar{
     width: 100%;
-    height: 80px;
+ 
     background-color: rgb(21, 37, 53);
     position: fixed;
-    text-align: center;
+    /* text-align: center; */
     top: 0;
     z-index: 1;
 
@@ -21,13 +21,17 @@
 .logo{ 
     height: 80px;
     width: 80px;
+    display: inline;
     /* margin-top: 10px; */
-    margin-left: 10%;
+    margin-left: 15px;
+    position: relative;
+    /* right: 200px; */
 }
 
 .nav-links{
-    background-color: red;
+    background-color: rgb(21, 37, 53);
     float: right;
+    margin-top: 10px;
 }
 
 .nav-list {
@@ -64,16 +68,16 @@
     float: left;
     margin: 20px;
     list-style-type: none;
-    border: 3px solid navy;
+    border: 3px solid white;
     border-style: double;
-    border-color: navy;
+    border-color: white;
     border-radius: 25px;
     font-family: 'Lobster', cursive;
 }
 
 .list-item a {
     text-decoration: none;
-    color: rgb(0, 0, 0);
+    color: white;
     padding: 20px;
 }
 
