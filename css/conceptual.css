@@ -1,0 +1,103 @@
+.backgr {
+    padding-top: 100px;
+    background-image: url(../img/bg2.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 800px;
+    margin-top: 80px;
+    position: relative;
+
+}
+
+.backg-contentr {
+    color: white;
+    background-color: #223144;
+    height: 100px;
+    width: 200px;
+    border-style: outset;
+    border-color: #4e4545;
+    position: absolute;
+    top: 22px;
+    left: 406px;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+
+.backg-contentr h1{
+    font-size: 40px;
+}
+
+.home-contentc {
+    height: 725px;
+    width: 100%;
+    background-color: #223144;
+    position: relative;
+    margin-bottom: 60px;
+}
+
+.cgoal {
+    float: left;
+    height: 150px;
+    width: 89%;
+    border-style: outset;
+    padding: 50px;
+    margin: 25px 2.5% 25px 2.5%;
+    color: white;
+
+}
+
+.cpriork {
+    float: left;
+    height: 150px;
+    width: 89%;
+    border-style: outset;
+    padding: 50px;
+    margin: 25px 2.5% 25px 2.5%;
+    color: white;
+
+}
+
+.cfiles{
+    float: left;
+    height: 70px;
+    width: 100%;
+    background-color: #223144;
+    color: white;
+ 
+}
+
+.csyllabus{
+    height: 50px;
+    width: 15%;
+    float: left;
+    margin-top: 10px;
+    margin-left: 17.5%;
+    border-style: outset;
+    text-align: center;
+    padding-top: 10px;
+
+}
+
+.cSOY{
+    height: 50px;
+    width: 15%;
+    float: left;
+    margin-top: 10px;
+    margin-left: 10%;
+    border-style: outset;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.cbinder{
+    height: 50px;
+    width: 15%;
+    float: left;
+    margin-top: 10px;
+    margin-left: 10%;
+    border-style: outset;
+    text-align: center;
+    padding-top: 10px;
+
+}

@@ -5,7 +5,9 @@
     text-decoration: none;
 }
 
-
+a{
+    color: white;
+}
 .nav-bar{
     width: 100%;
  
@@ -121,7 +123,7 @@
     width: 100%;
     background-color: #223144;
     position: relative;
-    margin-bottom: 60px;
+    margin-bottom: 79px;
 }
 
 .box {
@@ -157,7 +159,7 @@
     left: 0;
     bottom: 0;
     width: 100%;
-    height: 60px;
+    height: 80px;
     display: block;
     background-color: black;
 }
@@ -250,21 +252,28 @@
     float: left;
     text-align: center;
     color: white;
+    margin-left: 17px;
 }
 
 .footer-col p {
     float: right;
     position: relative;
-    margin-top: 15px;
+    margin-top: 25px;
     font-size: 20px;
 }
 
-.submit, .social {
+ .social {
     display: block;
     margin-top: 20px;
 }
 
-/* .fab {
+.submit {
+    margin-top: 30px;
+}
+
+
+
+.fab {
     font-size: 3em;
     margin-left: 15px;
 }
@@ -280,7 +289,7 @@
 
 .fa-linkedin-in{
     color: #0077B5;
-} */
+}
 
 
 

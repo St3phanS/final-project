@@ -1,6 +1,6 @@
-.backgr {
+.backg {
     padding-top: 100px;
-    background-image: url(../img/bg2.png);
+    background-image: url(../img/contact.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     width: 100%;
@@ -10,7 +10,7 @@
 
 }
 
-.backg-contentr {
+.backg-content {
     color: white;
     background-color: #223144;
     height: 100px;
@@ -24,6 +24,72 @@
     font-family: 'Lobster', cursive;
 }
 
-.backg-contentr h1{
+.backg-content h1{
     font-size: 40px;
+}
+
+.home-contentc {
+    height: 950px;
+    width: 100%;
+    background-color: #223144;
+    position: relative;
+    margin-bottom: 60px;
+    padding-top: 10px;
+}
+
+.contact-col{
+    height: 700px;
+    width: 48%;
+    border-style: outset;
+    float: left;
+    margin-left: 15px;
+    margin-bottom: 20px;
+    
+}
+
+.contact-container {
+    height: 700px;
+    width: 100%;
+    margin-top: 150px;
+    color: white;
+    
+}
+
+iframe{
+    width: 100%;
+    height: 700px;
+}
+
+.footer{
+    margin-top: 30px;
+}
+
+
+
+.box {
+    float: left;
+    height: 500px;
+    width: 42%;
+    border-style: outset;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+.content-img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 25px;
+    margin-left: 25px;
+    margin-bottom: 25px;
+}
+
+.content-text {
+    position: absolute;
+    color: white;
+    top: 0;
+    right: 0;
+    margin-top: 25px;
+    margin-right: 25px;
+    margin-bottom: 25px;
 }
